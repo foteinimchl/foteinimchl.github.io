@@ -7,20 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 1.25em; font-weight: 500;">PhD candidate at Imperial College London</span> 
+<span style="font-size: 1.25em; font-weight: 500;">PhD candidate, Imperial College London</span> 
 
-I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #934c9a;"} at the [Sargent Center for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #934c9a;"}.
-
-My research is focused on developing **digital tools** for the **design**, **optimisation**, and **control** of complex separation systems for **real time** applications. Some of my work includes:
+I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #934c9a;"} at the [Sargent Center for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #934c9a;"}. My research is focused on developing **digital tools** for the **design**, **optimisation**, and **control** of complex separation systemswith a particular emphasis on **real-time** applications in continuous biomanufacturing. My current work explores:
 <ul>
-  <li>Bayesian optimisation for hyperparameter tuning</li>
-  <li>Data-driven and hybrid modelling for online process optimisation</li>
-  <li>Reinforcement learning for real-time adaptive control</li>
+  <li>Bayesian optimisation for hyperparameter tuning in surrogate models.</li>
+  <li>Data-driven and hybrid modelling for online process optimisation.</li>
+  <li>Reinforcement learning for real-time adaptive control of dynamic systems.</li>
 </ul>
 
-Driven by the need for adaptable and transparent decision-making tools, I design intelligent computational tools that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
-
-My research is supported by the <span style='color: #934c9a;'>Burkett Scholarship</span>.
+Supported by the <span style='color: #934c9a;'>Burkett Scholarship</span>, this research is driven by the need for adaptable and transparent decision-making tools in advanced manufacturing. By combining domain insight with machine learning, I aim to develop intelligent computational frameworks that support real-time optimisation and control in continuous biomanufacturing.
 
 ---
 
