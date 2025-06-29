@@ -9,22 +9,22 @@ redirect_from:
 
 <span style="font-size: 1.25em; font-weight: 500;">PhD candidate, Imperial College London</span> 
 
-I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #762040;"} at the [Sargent Center for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #762040;"}. 
+I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="color: #762040; font-weight: bold;"} at the [Sargent Center for Process Systems Engineering](https://www.imperial.ac.uk/process-systems-engineering/){: style="color: #762040; font-weight: bold;"}. 
 
-My research is focused on developing <span style='color: #762040;'>digital tools</span> for the <span style='color: #762040;'>design</span>, <span style='color: #762040;'>optimisation</span>, and <span style='color: #762040;'>control</span> of complex separation systemswith a particular emphasis on <span style='color: #762040;'>real-time</span> applications in continuous biomanufacturing. My current work explores:
+My research is focused on developing <span style='color: #762040; font-weight: bold;'>digital tools</span> for the <span style='color: #762040; font-weight: bold;'>design</span>, <span style='color: #762040; font-weight: bold;'>optimisation</span>, and <span style='color: #762040; font-weight: bold;'>control</span> of complex separation systemswith a particular emphasis on <span style='color: #762040; font-weight: bold;'>real-time</span> applications in continuous biomanufacturing. My current work explores:
 <ul>
-  <li><span style='color: #762040;'>Bayesian optimisation</span>for hyperparameter tuning in surrogate models.</li>
-  <li><span style='color: #762040;'>Data-driven</span> and <span style='color: #762040;'>hybrid</span> modelling for online process optimisation.</li>
-  <li><span style='color: #762040;'>Reinforcement learning</span> for real-time adaptive control of dynamic systems.</li>
+  <li><span style='color: #762040; font-weight: bold;'>Bayesian optimisation</span>for hyperparameter tuning in surrogate models.</li>
+  <li><span style='color: #762040; font-weight: bold;'>Data-driven</span> and <span style='color: #762040; font-weight: bold;'>hybrid</span> modelling for online process optimisation.</li>
+  <li><span style='color: #762040; font-weight: bold;'>Reinforcement learning</span> for real-time adaptive control of dynamic systems.</li>
 </ul>
 
-Driven by the need for adaptable and transparent <span style='color: #762040;'>decision making tools</span>, I design <span style='color: #762040;'>intelligent computational frameworks</span> that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
+Driven by the need for adaptable and transparent <span style='color: #762040; font-weight: bold;'>decision making tools</span>, I design <span style='color: #762040; font-weight: bold;'>intelligent computational frameworks</span> that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
 
-My research is supported by the <span style='color: #762040;'>Burkett Scholarship</span>.
+My research is supported by the <span style='color: #762040; font-weight: bold;'>Burkett Scholarship</span>.
 
 ---
 
-<!-- ## <span style="color: #762040; font-size: 1.25em;">Research Interests</span>
+<!-- ## <span style="color: #762040; font-weight: bold; font-size: 1.25em;">Research Interests</span>
 
 <table style="border: 1px solid white; border-collapse: collapse; width: 100%; font-size: 1em;">
   <tr>
