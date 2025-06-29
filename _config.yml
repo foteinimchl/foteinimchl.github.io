@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "<span style='color: #934c9a;'>Home</span>"
+title                    : "<span style='color: #581845;'>Home</span>"
 title_separator          : "-"
 name                     : &name "Foteini Michalopoulou"
 description              : &description "personal description"
