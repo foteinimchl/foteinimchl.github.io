@@ -20,7 +20,7 @@ My research is focused on developing **digital tools** for the **design**, **opt
 
 Driven by the need for adaptable and transparent decision-making tools, I design intelligent computational tools that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
 
-My research is supported by the "<span style='color: #934c9a;'>Burkett Scholarship</span>".
+My research is supported by the <span style='color: #934c9a;'>Burkett Scholarship</span>.
 
 ---
 

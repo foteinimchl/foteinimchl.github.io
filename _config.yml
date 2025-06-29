@@ -22,9 +22,9 @@ repository               : "foteinimchl/foteinimchl.github.io."
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Author_photo.jpg"
+  avatar           : "Author_photo.JPG"
   # name             : "Foteini Michalopoulou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "London, UK"
   employer         : "Imperial College London"
