@@ -5,32 +5,83 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p>
+  Publications in reversed chronological order. The most up-to-date list of publications can be found on
+  <a href="https://scholar.google.co.uk/citations?user=skOXMw0AAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="color: #934c9a;">Google Scholar</a>.
+</p>
 
-{% include base_path %}
+<details>
+  <summary><span style="color: #934c9a; font-size: 1.25em;">Journal Articles</span></summary>
+  
+  <table style="border: 1px solid white; border-collapse: collapse; width: 100%; font-size: 1em;">
+    <tr>
+      <td style="vertical-align: top; border: 1px solid white;">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <!-- <li><span style="color: #934c9a;">&#8226;</span> <strong>Michalopoulou, F.</strong>, & Papathanasiou, M. M. (2026).
+            <a href="https://www.sciencedirect.com/science/article/pii/S0098135424001431" target="_blank" rel="noopener noreferrer" style="color: #934c9a;">
+            "Reinforcement Learning for Real-Time Adaptive Control of Chromatographic Separation Processes"</a>, 
+            <i>Journal of Chromatography A</i>, 187, 108725.
+            <span style="font-size: 0.9em; color: grey;">(Invited at the Advances in Preparative Chromatography special issue)</span>
+                 <a href="https://github.com/nikitrian/amortized_optimization" target="_blank" style="margin-left: 8px;">
+              <img src="https://img.shields.io/badge/code-GitHub-black?logo=github" style="vertical-align: middle;"/>
+            </a> -->
+          <!-- </li> -->
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+          <li><span style="color: #934c9a;">&#8226;</span> <strong>Michalopoulou, F.</strong>, & Papathanasiou, M. M. (2025).
+            <a href="https://doi.org/10.1016/j.dche.2024.100215" target="_blank" rel="noopener noreferrer" style="color: #934c9a;">
+            "An approach to hybrid modelling in chromatographic separation processes"</a>, 
+            <i>Digital Chemical Engineering</i>, 14, 100215.
+            <span style="font-size: 0.9em; color: grey;">(Invited at the Emerging Stars special issue)</span>
+            <a href="https://github.com/foteinimchl/isotherm_retention_hybrid_model" target="_blank" style="margin-left: 8px;">
+              <img src="https://img.shields.io/badge/code-GitHub-black?logo=github" style="vertical-align: middle;"/>
+            </a>
+          </li>
 
+          <li><span style="color: #934c9a;">&#8226;</span> <strong>Michalopoulou, F.</strong>, & Papathanasiou, M. M. (2024).
+            <a href="https://doi.org/10.1002/aic.18600" target="_blank" rel="noopener noreferrer" style="color: #934c9a;">
+            "Assessment of data-driven modeling approaches for chromatographic separation processes"</a>, 
+            <i>AIChE Journal</i>, e18600.
+            <span style="font-size: 0.9em; color: grey;">(Invited at the 2024 Futures Issue)</span>
+            <!-- <a href="https://github.com/foteinimchl/isotherm_retention_hybrid_model" target="_blank" style="margin-left: 8px;">
+              <img src="https://img.shields.io/badge/code-GitHub-black?logo=github" style="vertical-align: middle;"/> -->
+            <!-- </a> -->
+          </li>
+          
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<!-- <details>
+  <summary><span style="color: #934c9a; font-size: 1.25em;">Conference Papers</span></summary>
+  
+  <table style="border: 1px solid white; border-collapse: collapse; width: 100%; font-size: 1em;">
+    <tr>
+      <td style="vertical-align: top; border: 1px solid white;">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li><span style="color: #934c9a;">&#8226;</span> <strong>Michalopoulou, F.</strong>, & Papathanasiou, M. M. (2025). <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780443288241504592" target="_blank" rel="noopener noreferrer">"Process Optimization for Chromatographic Separation: A Hybrid Modeling Approach"</a> In <i>IFAC-PapersOnLine</i>, Vol. 53, pp. 2749-2754.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details> -->
+
+<details>
+  <summary><span style="color: #934c9a; font-size: 1.25em;">Journal Covers</span></summary>
+  
+  <table style="border: 1px solid white; border-collapse: collapse; width: 100%; font-size: 1em;">
+    <tr>
+      <td style="vertical-align: top; border: 1px solid white;">
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li><span style="color: #934c9a;">&#8226;</span>
+            <a href="https://aiche.onlinelibrary.wiley.com/doi/10.1002/aic.18138" target="_blank" rel="noopener noreferrer">
+              Journal Cover of AIChE 2024 Futures Issue</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
 
 
