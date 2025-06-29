@@ -16,7 +16,7 @@ I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="col
   <li>Reinforcement learning for real-time adaptive control of dynamic systems.</li>
 </ul>
 
-Supported by the <span style='color: #581845;'>Burkett Scholarship</span>, this research is driven by the need for adaptable and transparent decision-making tools in advanced manufacturing. By combining domain insight with machine learning, I aim to develop intelligent computational frameworks that support real-time optimisation and control in continuous biomanufacturing.
+Supported by the <span style='color: #581845;'>Burkett Scholarship</span>, this research is driven by the need for adaptable and transparent **decision-making tools** in advanced manufacturing. By combining domain insight with machine learning, I aim to develop **intelligent computational frameworks** that support real-time optimisation and control in continuous biomanufacturing.
 
 ---
 
