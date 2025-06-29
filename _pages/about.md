@@ -13,12 +13,12 @@ I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="col
 
 My research is focused on developing <span style='color: #762040; font-weight: bold;'>digital tools</span> for the <span style='color: #762040; font-weight: bold;'>design</span>, <span style='color: #762040; font-weight: bold;'>optimisation</span>, and <span style='color: #762040; font-weight: bold;'>control</span> of complex separation systemswith a particular emphasis on <span style='color: #762040; font-weight: bold;'>real-time</span> applications in continuous biomanufacturing. My current work explores:
 <ul>
-  <li><span style='color: #762040; font-weight: bold;'>Bayesian optimisation</span>for hyperparameter tuning in surrogate models.</li>
+  <li><span style='color: #762040; font-weight: bold;'>Bayesian optimisation</span> for hyperparameter tuning in surrogate models.</li>
   <li><span style='color: #762040; font-weight: bold;'>Data-driven</span> and <span style='color: #762040; font-weight: bold;'>hybrid</span> modelling for online process optimisation.</li>
   <li><span style='color: #762040; font-weight: bold;'>Reinforcement learning</span> for real-time adaptive control of dynamic systems.</li>
 </ul>
 
-Driven by the need for adaptable and transparent <span style='color: #762040; font-weight: bold;'>decision making tools</span>, I design <span style='color: #762040; font-weight: bold;'>intelligent computational frameworks</span> that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
+Driven by the need for adaptable and transparent <span style='color: #762040; font-weight: bold;'>decision-making tools</span>, I design <span style='color: #762040; font-weight: bold;'>intelligent computational frameworks</span> that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
 
 My research is supported by the <span style='color: #762040; font-weight: bold;'>Burkett Scholarship</span>.
 
