@@ -13,9 +13,9 @@ I work with [Dr. Maria Papathanasiou](https://www.papathanlab.com/){: style="col
 
 My research is focused on developing <span style='color: #762040;'>digital tools</span> for the <span style='color: #762040;'>design</span>, <span style='color: #762040;'>optimisation</span>, and <span style='color: #762040;'>control</span> of complex separation systemswith a particular emphasis on <span style='color: #762040;'>real-time</span> applications in continuous biomanufacturing. My current work explores:
 <ul>
-  <li>Bayesian optimisation for hyperparameter tuning in surrogate models.</li>
-  <li>Data-driven and hybrid modelling for online process optimisation.</li>
-  <li>Reinforcement learning for real-time adaptive control of dynamic systems.</li>
+  <li><span style='color: #762040;'>Bayesian optimisation</span>for hyperparameter tuning in surrogate models.</li>
+  <li><span style='color: #762040;'>Data-driven</span> and <span style='color: #762040;'>hybrid</span> modelling for online process optimisation.</li>
+  <li><span style='color: #762040;'>Reinforcement learning</span> for real-time adaptive control of dynamic systems.</li>
 </ul>
 
 Driven by the need for adaptable and transparent <span style='color: #762040;'>decision making tools</span>, I design <span style='color: #762040;'>intelligent computational frameworks</span> that combine domain insight with machine learning to tackle challenges in continuous biomanufacturing.
